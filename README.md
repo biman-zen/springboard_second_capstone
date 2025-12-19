@@ -1,5 +1,5 @@
 ## Predict Used Vehicle Price Using Scikit-Learn
-![image]({{https://www.usatoday.com/gcdn/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=500&height=500&fit=crop&format=pjpg&auto=webp}}|400)
+![image](https://www.usatoday.com/gcdn/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=500&height=500&fit=crop&format=pjpg&auto=webp|400)
 
 <p align="center">
   <img src="https://www.usatoday.com/gcdn/media/2018/06/14/USATODAY/usatsports/car-lot-square-e1461855298700.jpg?width=500&height=500&fit=crop&format=pjpg&auto=webp" 
